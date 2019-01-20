@@ -1,0 +1,3 @@
+title=Aritmetika
+author=Tomáš Čech
+orientation=landscape
